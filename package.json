@@ -12,7 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "node ./node_modules/gh-pages/bin/gh-pages.js -d dist"
   },
-  "homepage": "https://dsitesinfosolutions.github.io/HMS",
+  "homepage": "https://dsitesinfosolutions.github.io/HMS/",
   "dependencies": {
     "@supabase/supabase-js": "^2.57.4",
     "lucide-react": "^0.344.0",
